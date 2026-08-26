@@ -15,6 +15,6 @@ Business Impact and Insights
 
 Screenshots
 [https://github.com/navinkamtam38/Restaurants-Analytics-Dashboard/blob/main/Executive%20Overview%20and%20Customer%20Analytics.png](url)
-
+[https://github.com/navinkamtam38/Restaurants-Analytics-Dashboard/blob/main/Restaurant%20Performance%2C%20Delivery%2C%20and%20Operations.png](url)
 
 
