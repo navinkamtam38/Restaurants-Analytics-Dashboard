@@ -14,4 +14,7 @@ Walk through of key visuals
 Business Impact and Insights
 
 Screenshots
+[https://github.com/navinkamtam38/Restaurants-Analytics-Dashboard/blob/main/Executive%20Overview%20and%20Customer%20Analytics.png](url)
+
+
 
